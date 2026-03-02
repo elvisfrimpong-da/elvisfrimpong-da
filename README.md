@@ -81,7 +81,7 @@ In addition to agricultural research applications, I have applied analytics acro
 </p>
 
 Or visit directly:  
-🌐 https://elvisfrimpong-da.github.io/elvis-connect/
+🌐 [https://elvisfrimpong-da.github.io/elvis-connect](https://elvisfrimpong-da.github.io/connect/)/
 
 ---
 
