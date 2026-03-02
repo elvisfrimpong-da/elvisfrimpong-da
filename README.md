@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">
   Hi there 👋, I'm 
   <a href="https://linkedin.com/in/elvisfrimpong/" target="_blank">
@@ -16,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://giphy.com/gifs/youre-welcome-kmQREsvNQrhrHdkN7G" width="500" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3g3b3NoNzd1ZjRjMnA5MHRzY3Mxd3JmMWdoaWZhanZxcjl6amRkZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OF0yOAufcWLfi/giphy.gif" width="500" />
 </p>
 
 ---
