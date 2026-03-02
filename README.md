@@ -21,9 +21,11 @@
 
 ## 📌 About Me
 
-I am a Data Analyst with a background in Agricultural Engineering, focused on applying data-driven methods to solve real-world problems across agriculture, research, and business environments.
+I am a Data Analyst with a strong foundation in Agricultural Engineering, focused on applying quantitative and data-driven methods to agricultural systems, environmental analysis, and research-based problem solving.
 
-My experience includes sales analytics, customer churn modeling, financial trend analysis, and employee attrition studies. I combine analytical rigor with domain knowledge in agriculture to design solutions that are both technically sound and practically impactful.
+My work integrates statistical modeling, data exploration, and predictive analytics to examine crop performance, climate variability, resource efficiency, and productivity optimization. Through projects involving fertilizer response evaluation, climate variability analysis, and agricultural data modeling, I have developed experience working with experimental data, satellite-derived datasets, and structured business data.
+
+In addition to agricultural research applications, I have applied analytics across sales performance evaluation, customer behavior modeling, financial trend analysis, and workforce analytics. I combine analytical rigor, domain expertise, and structured thinking to design solutions that are technically sound, research-informed, and practically impactful.
 
 ---
 
@@ -31,30 +33,31 @@ My experience includes sales analytics, customer churn modeling, financial trend
 
 ### 📊 Data Analysis & Business Intelligence
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="45" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="45" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="45" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="90" />
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" style="margin: 0 18px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" style="margin: 0 18px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55" style="margin: 0 18px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" style="margin: 0 18px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="55" style="margin: 0 18px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="55" style="margin: 0 18px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" style="margin: 0 18px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="55" style="margin: 0 18px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="55" style="margin: 0 18px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="70" style="margin: 0 18px;" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 | Project | Tools | Focus |
 |----------|--------|--------|
-| Sales Performance Dashboard | Excel, Power BI | Revenue analysis, KPI monitoring, performance tracking |
-| The Effect of Organic Manure and Inorganic Fertilizer on Tomato Production | Excel, R, Python | Research |  
-| Customer Churn Analysis | SQL, Python | Customer segmentation and retention insights |
-| Employee Attrition Analysis | Power BI | Workforce analytics and turnover factor identification |
-| Financial Data Analysis | Excel, Python | Budget trends and financial performance evaluation |
-
+| [The Effect of Organic Manure and Inorganic Fertilizer on Tomato Production](https://github.com/elvisfrimpong-da/The-Effect-of-Organic-Manure-and-Inorganic-Fertilizer-on-Tomato-Production) | • Excel <br> • R <br> • Python | Agricultural research analysis evaluating input effects on tomato yield |
+| [Monthly Climate Variability in Ghana](https://github.com/elvisfrimpong-da/Monthly-Climate-Variability-Ghana) | • Excel <br> • Python <br> • Statistical&nbsp;Modeling | Statistical and exploratory analysis of rainfall and temperature variability using satellite climate data for agricultural decision-making |
+| [Customer Churn Analysis](https://github.com/elvisfrimpong-da/vertex-mobile-churn-analysis) | • Excel <br> • Power&nbsp;BI | Customer segmentation and retention strategy insights |
+| [Employee Attrition Analysis](https://github.com/elvisfrimpong-da/employee-attrition-analysis) | • Power&nbsp;BI | Workforce analytics and turnover factor identification |
+| [Hospital Bed Capacity Analysis](https://github.com/elvisfrimpong-da/Hospital-Bed-Capacity-Analysis) | • SQL | Bed capacity analysis across a hospital network to support leadership decision-making for a nursing intervention pilot program |
+| [Sales Performance Dashboard](https://github.com/elvisfrimpong-da/ExpressMart-Sales) | • Excel | Revenue analysis, KPI monitoring, and performance tracking |
 ---
 
 ## 📈 Research & Analytical Interests
