@@ -72,7 +72,7 @@ My experience includes sales analytics, customer churn modeling, financial trend
 ## 🔗 Connect With Me
 
 <p align="center">
-  <img src="connect-qr.png" width="180" />
+  <img src="elvis_frimpong_connect.png" width="180" />
 </p>
 
 <p align="center">
