@@ -53,6 +53,7 @@ In addition to agricultural research applications, I have applied analytics acro
 | Project | Tools | Focus |
 |----------|--------|--------|
 | [The Effect of Organic Manure and Inorganic Fertilizer on Tomato Production](https://github.com/elvisfrimpong-da/The-Effect-of-Organic-Manure-and-Inorganic-Fertilizer-on-Tomato-Production) | • Excel <br> • R <br> • Python | Agricultural research analysis evaluating input effects on tomato yield |
+| [MoMo Financial Analysis](https://github.com/elvisfrimpong-da/momo-financial-analysis) | • Excel <br> • Power BI | Financial transaction analysis, revenue trends, and customer usage patterns within mobile money services |
 | [Monthly Climate Variability in Ghana](https://github.com/elvisfrimpong-da/Monthly-Climate-Variability-Ghana) | • Excel <br> • Python <br> • Statistical&nbsp;Modeling | Statistical and exploratory analysis of rainfall and temperature variability using satellite climate data for agricultural decision-making |
 | [Customer Churn Analysis](https://github.com/elvisfrimpong-da/vertex-mobile-churn-analysis) | • Excel <br> • Power&nbsp;BI | Customer segmentation and retention strategy insights |
 | [Employee Attrition Analysis](https://github.com/elvisfrimpong-da/employee-attrition-analysis) | • Power&nbsp;BI | Workforce analytics and turnover factor identification |
@@ -93,5 +94,7 @@ I am currently seeking:
 - Agricultural data research positions  
 - Master's opportunities in Data Science, Analytics, or Agricultural Systems  
 - PhD positions focused on data-driven agricultural research and applied analytics  
+- Opportunities in AI applications in agriculture (smart farming, predictive modeling)  
+- Research and innovation roles in agricultural robotics and automation  
 
-If you are working on research or projects in these areas, I would welcome the opportunity to connect and collaborate.<
+If you are working on research or projects in these areas, I would welcome the opportunity to connect and collaborate.
