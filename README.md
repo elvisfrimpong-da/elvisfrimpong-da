@@ -1,6 +1,6 @@
 <h1 align="center">
   Hi there 👋, I'm 
-  <a href="https://linkedin.com/in/elvisfrimpong/" target="_blank">
+  <a href="https://www.elvisfrimpong.bio/" target="_blank">
     Frimpong Elvis
   </a>
 </h1>
