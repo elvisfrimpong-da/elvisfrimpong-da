@@ -14,7 +14,9 @@
 </p>
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3g3b3NoNzd1ZjRjMnA5MHRzY3Mxd3JmMWdoaWZhanZxcjl6amRkZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OF0yOAufcWLfi/giphy.gif" width="500" />
+  <a href="https://agtech-yield-prediction.streamlit.app/">
+    <img src="assets/crop-yield-estimator.jpg" width="900" alt="Open the crop yield estimator showing a Ghana maize estimate of 2.25 tonnes per hectare" />
+  </a>
 </p>
 
 ---
